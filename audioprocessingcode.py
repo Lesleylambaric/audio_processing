@@ -1,5 +1,5 @@
 ';/'"""
-6.1010 Spring '23 Lab 0: Audio Processing
+ Audio Processing
 """
 
 import wave
